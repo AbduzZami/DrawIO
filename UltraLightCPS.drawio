@@ -167,7 +167,7 @@
         <mxCell id="ULMexEgT5RFxVUXGFJnt-30" value="ReLU" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="730" y="990" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ULMexEgT5RFxVUXGFJnt-31" value="mid_channel = out_channel / 4" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="ULMexEgT5RFxVUXGFJnt-31" value="mid_channel = out_channel / 4 = 64" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-10" y="90" width="230" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ULMexEgT5RFxVUXGFJnt-32" value="in_channel = 320" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
