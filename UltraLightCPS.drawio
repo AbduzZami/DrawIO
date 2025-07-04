@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36" version="27.2.0">
   <diagram name="Page-1" id="Wpb7lffDQaTQN_STUFut">
-    <mxGraphModel dx="1501" dy="1477" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="3019" dy="2356" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -110,7 +110,7 @@
         <mxCell id="ULMexEgT5RFxVUXGFJnt-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="ULMexEgT5RFxVUXGFJnt-53" source="ULMexEgT5RFxVUXGFJnt-10" target="ULMexEgT5RFxVUXGFJnt-11">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ULMexEgT5RFxVUXGFJnt-10" value="Conv 1x1" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="ULMexEgT5RFxVUXGFJnt-53">
+        <mxCell id="ULMexEgT5RFxVUXGFJnt-10" value="Conv 1x1&lt;div&gt;&lt;div style=&quot;caret-color: rgba(0, 0, 0, 0);&quot;&gt;in = mid_channels&lt;/div&gt;&lt;div style=&quot;caret-color: rgba(0, 0, 0, 0);&quot;&gt;&lt;span style=&quot;caret-color: rgba(0, 0, 0, 0);&quot;&gt;out = mid_channels&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="ULMexEgT5RFxVUXGFJnt-53">
           <mxGeometry x="490" y="840" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ULMexEgT5RFxVUXGFJnt-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="ULMexEgT5RFxVUXGFJnt-53" source="ULMexEgT5RFxVUXGFJnt-11" target="ULMexEgT5RFxVUXGFJnt-13">
@@ -134,7 +134,7 @@
         <mxCell id="ULMexEgT5RFxVUXGFJnt-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="ULMexEgT5RFxVUXGFJnt-53" source="ULMexEgT5RFxVUXGFJnt-18" target="ULMexEgT5RFxVUXGFJnt-20">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ULMexEgT5RFxVUXGFJnt-18" value="Conv 1x1" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="ULMexEgT5RFxVUXGFJnt-53">
+        <mxCell id="ULMexEgT5RFxVUXGFJnt-18" value="Conv 1x1&lt;div&gt;&lt;div style=&quot;caret-color: rgba(0, 0, 0, 0);&quot;&gt;in = mid_channels&lt;/div&gt;&lt;div style=&quot;caret-color: rgba(0, 0, 0, 0);&quot;&gt;&lt;span style=&quot;caret-color: rgba(0, 0, 0, 0);&quot;&gt;out = mid_channels&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="ULMexEgT5RFxVUXGFJnt-53">
           <mxGeometry x="490" y="950" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ULMexEgT5RFxVUXGFJnt-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="ULMexEgT5RFxVUXGFJnt-53" source="ULMexEgT5RFxVUXGFJnt-20" target="ULMexEgT5RFxVUXGFJnt-22">
@@ -158,7 +158,7 @@
         <mxCell id="ULMexEgT5RFxVUXGFJnt-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="ULMexEgT5RFxVUXGFJnt-53" source="ULMexEgT5RFxVUXGFJnt-26" target="ULMexEgT5RFxVUXGFJnt-28">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ULMexEgT5RFxVUXGFJnt-26" value="Conv 1x1" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="ULMexEgT5RFxVUXGFJnt-53">
+        <mxCell id="ULMexEgT5RFxVUXGFJnt-26" value="Conv 1x1&lt;div&gt;&lt;div style=&quot;caret-color: rgba(0, 0, 0, 0);&quot;&gt;in = mid_channels&lt;/div&gt;&lt;div style=&quot;caret-color: rgba(0, 0, 0, 0);&quot;&gt;&lt;span style=&quot;caret-color: rgba(0, 0, 0, 0);&quot;&gt;out = mid_channels&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="ULMexEgT5RFxVUXGFJnt-53">
           <mxGeometry x="490" y="1060" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ULMexEgT5RFxVUXGFJnt-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="ULMexEgT5RFxVUXGFJnt-53" source="ULMexEgT5RFxVUXGFJnt-28" target="ULMexEgT5RFxVUXGFJnt-30">
