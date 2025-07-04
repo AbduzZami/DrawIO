@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36" version="27.2.0">
   <diagram name="Page-1" id="Wpb7lffDQaTQN_STUFut">
-    <mxGraphModel dx="2352" dy="1969" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1699" dy="1591" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -58,11 +58,10 @@
         <mxCell id="5yk39SSH48Gkq1F0wZIZ-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="5yk39SSH48Gkq1F0wZIZ-14" target="5yk39SSH48Gkq1F0wZIZ-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="5yk39SSH48Gkq1F0wZIZ-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="5yk39SSH48Gkq1F0wZIZ-14" target="5yk39SSH48Gkq1F0wZIZ-12" edge="1">
+        <mxCell id="ULMexEgT5RFxVUXGFJnt-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="5yk39SSH48Gkq1F0wZIZ-14" target="ULMexEgT5RFxVUXGFJnt-47">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="20" y="200" />
-              <mxPoint x="750" y="200" />
+              <mxPoint x="30" y="160" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -168,14 +167,14 @@
         <mxCell id="ULMexEgT5RFxVUXGFJnt-30" value="ReLU" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="730" y="990" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ULMexEgT5RFxVUXGFJnt-31" value="mid_channel = out_channel / 4" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-40" y="90" width="230" height="30" as="geometry" />
+        <mxCell id="ULMexEgT5RFxVUXGFJnt-31" value="mid_channel = out_channel / 4" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-10" y="90" width="230" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ULMexEgT5RFxVUXGFJnt-32" value="in_channel" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-10" y="-10" width="60" height="30" as="geometry" />
+        <mxCell id="ULMexEgT5RFxVUXGFJnt-32" value="in_channel = 320" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-10" y="-10" width="170" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ULMexEgT5RFxVUXGFJnt-33" value="out_channel" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-10" y="40" width="60" height="30" as="geometry" />
+        <mxCell id="ULMexEgT5RFxVUXGFJnt-33" value="out_channel = 256" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-10" y="40" width="170" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ULMexEgT5RFxVUXGFJnt-37" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ULMexEgT5RFxVUXGFJnt-34" target="ULMexEgT5RFxVUXGFJnt-8">
           <mxGeometry relative="1" as="geometry" />
@@ -206,6 +205,18 @@
         </mxCell>
         <mxCell id="ULMexEgT5RFxVUXGFJnt-45" value="Final Conv" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-60" y="1115" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ULMexEgT5RFxVUXGFJnt-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ULMexEgT5RFxVUXGFJnt-47" target="ULMexEgT5RFxVUXGFJnt-48">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ULMexEgT5RFxVUXGFJnt-47" value="Conv 1x1&lt;div&gt;in = in_channel&lt;/div&gt;&lt;div&gt;out = out_channels&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="130" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ULMexEgT5RFxVUXGFJnt-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ULMexEgT5RFxVUXGFJnt-48" target="5yk39SSH48Gkq1F0wZIZ-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ULMexEgT5RFxVUXGFJnt-48" value="Batch Normalization" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="420" y="130" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
