@@ -361,14 +361,17 @@
         <mxCell id="8H9cI5T97NmYwnlC7RZ_-8" value="MB 7" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-160" y="3400" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="8H9cI5T97NmYwnlC7RZ_-10" value="Expand" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="80" y="2500" width="120" height="60" as="geometry" />
+        <mxCell id="8H9cI5T97NmYwnlC7RZ_-10" value="Expand&lt;div style=&quot;caret-color: rgba(0, 0, 0, 0);&quot;&gt;&lt;br class=&quot;Apple-interchange-newline&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;span style=&quot;caret-color: rgba(0, 0, 0, 0);&quot;&gt;Depthwise 1x1&lt;/span&gt;&lt;div style=&quot;caret-color: rgba(0, 0, 0, 0);&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;caret-color: rgba(0, 0, 0, 0);&quot;&gt;BN&lt;/div&gt;&lt;div style=&quot;caret-color: rgba(0, 0, 0, 0);&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;caret-color: rgba(0, 0, 0, 0);&quot;&gt;Swish&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="2420" width="120" height="140" as="geometry" />
         </mxCell>
         <mxCell id="8H9cI5T97NmYwnlC7RZ_-11" value="Depthwise" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="80" y="2590" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="8H9cI5T97NmYwnlC7RZ_-12" value="Pointwise" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="80" y="2680" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8H9cI5T97NmYwnlC7RZ_-14" value="ECA" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="2780" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
