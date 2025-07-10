@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36" version="27.2.0">
   <diagram name="Page-1" id="Wpb7lffDQaTQN_STUFut">
-    <mxGraphModel dx="2031" dy="1292" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2784" dy="1728" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -685,6 +685,30 @@
         </mxCell>
         <mxCell id="IQVs6YDOzSZQmRijwt-y-61" value="Output" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="-500" y="630" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="IQVs6YDOzSZQmRijwt-y-63" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.flowchart.or;" vertex="1" parent="1">
+          <mxGeometry x="-990" y="710" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="IQVs6YDOzSZQmRijwt-y-64" value="Channel-wise Concatenation" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-967" y="705" width="175" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="IQVs6YDOzSZQmRijwt-y-65" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.flowchart.summing_function;" vertex="1" parent="1">
+          <mxGeometry x="-990" y="745" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="IQVs6YDOzSZQmRijwt-y-66" value="Element-wise Summation" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-967" y="740" width="175" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="IQVs6YDOzSZQmRijwt-y-67" value="Batch Normalization" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-725" y="705" width="175" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="IQVs6YDOzSZQmRijwt-y-69" value="Depthwise Separable Convolution" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-725" y="740" width="190" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="IQVs6YDOzSZQmRijwt-y-71" value="BN" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="-755" y="710" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="IQVs6YDOzSZQmRijwt-y-72" value="DSConv" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="-775" y="745" width="50" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
