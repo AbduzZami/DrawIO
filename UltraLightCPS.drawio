@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36" version="27.2.0">
   <diagram name="Page-1" id="Wpb7lffDQaTQN_STUFut">
-    <mxGraphModel dx="2848" dy="1765" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2920" dy="1806" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -880,7 +880,7 @@
         </mxCell>
         <mxCell id="IQVs6YDOzSZQmRijwt-y-202" value="Residual Connection" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="IQVs6YDOzSZQmRijwt-y-150">
           <mxGeometry x="0.1506" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="27" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="IQVs6YDOzSZQmRijwt-y-119" value="High Level&lt;div&gt;Features&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
