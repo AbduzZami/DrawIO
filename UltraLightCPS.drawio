@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36" version="27.2.0">
   <diagram name="Page-1" id="Wpb7lffDQaTQN_STUFut">
-    <mxGraphModel dx="1573" dy="1519" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1826" dy="1665" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -346,7 +346,7 @@
         <mxCell id="z89YqDohYfR149tu_x9s-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="eNPJahaXqTW3j3RyROAE-2" target="eNPJahaXqTW3j3RyROAE-19" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="eNPJahaXqTW3j3RyROAE-2" value="&lt;div&gt;&lt;span style=&quot;caret-color: rgba(0, 0, 0, 0);&quot;&gt;Residual Conv&lt;/span&gt;&lt;/div&gt;&lt;span style=&quot;caret-color: rgba(0, 0, 0, 0);&quot;&gt;&lt;div&gt;&lt;span style=&quot;caret-color: rgba(0, 0, 0, 0);&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;Conv 1x1&lt;/span&gt;&lt;div style=&quot;caret-color: rgba(0, 0, 0, 0);&quot;&gt;in = in_channels&lt;/div&gt;&lt;div style=&quot;caret-color: rgba(0, 0, 0, 0);&quot;&gt;out = reduced_channels&lt;/div&gt;&lt;div style=&quot;caret-color: rgba(0, 0, 0, 0);&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;caret-color: rgba(0, 0, 0, 0);&quot;&gt;with Learnable Scalling&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="eNPJahaXqTW3j3RyROAE-2" value="&lt;div&gt;&lt;span style=&quot;caret-color: rgba(0, 0, 0, 0);&quot;&gt;Residual Conv&lt;/span&gt;&lt;/div&gt;&lt;span style=&quot;caret-color: rgba(0, 0, 0, 0);&quot;&gt;&lt;div&gt;&lt;span style=&quot;caret-color: rgba(0, 0, 0, 0);&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;Conv 1x1&lt;/span&gt;&lt;div style=&quot;caret-color: rgba(0, 0, 0, 0);&quot;&gt;in = in_channels&lt;/div&gt;&lt;div style=&quot;caret-color: rgba(0, 0, 0, 0);&quot;&gt;out = reduced_channels&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="150" y="1675" width="120" height="155" as="geometry" />
         </mxCell>
         <mxCell id="eNPJahaXqTW3j3RyROAE-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="eNPJahaXqTW3j3RyROAE-4" target="eNPJahaXqTW3j3RyROAE-6" edge="1">
@@ -361,13 +361,13 @@
         <mxCell id="z89YqDohYfR149tu_x9s-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="eNPJahaXqTW3j3RyROAE-6" target="eNPJahaXqTW3j3RyROAE-10" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="eNPJahaXqTW3j3RyROAE-6" value="Multi Scale Conv 1&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;depthwise 3x3&lt;/div&gt;&lt;div&gt;in = reduced_channels&lt;/div&gt;&lt;div&gt;out = reduced_channels / 2&lt;/div&gt;&lt;div&gt;d = 1, p = 1,&lt;/div&gt;&lt;div&gt;BN&lt;/div&gt;&lt;div&gt;SiLU&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;caret-color: rgba(0, 0, 0, 0);&quot;&gt;Learnable Weight&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="eNPJahaXqTW3j3RyROAE-6" value="Multi Scale Conv 1&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;depthwise 3x3&lt;/div&gt;&lt;div&gt;in = reduced_channels&lt;/div&gt;&lt;div&gt;out = reduced_channels / 2&lt;/div&gt;&lt;div&gt;d = 1, p = 1,&lt;/div&gt;&lt;div&gt;BN&lt;/div&gt;&lt;div&gt;SiLU&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="310" y="1770" width="160" height="150" as="geometry" />
         </mxCell>
         <mxCell id="z89YqDohYfR149tu_x9s-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="eNPJahaXqTW3j3RyROAE-7" target="eNPJahaXqTW3j3RyROAE-10" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="eNPJahaXqTW3j3RyROAE-7" value="&lt;span style=&quot;caret-color: rgba(0, 0, 0, 0);&quot;&gt;Multi Scale Conv 3&lt;/span&gt;&lt;div style=&quot;caret-color: rgba(0, 0, 0, 0);&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;caret-color: rgba(0, 0, 0, 0);&quot;&gt;depthwise 3x3&lt;/div&gt;&lt;div style=&quot;caret-color: rgba(0, 0, 0, 0);&quot;&gt;&lt;div style=&quot;caret-color: rgba(0, 0, 0, 0);&quot;&gt;in = reduced_channels&lt;/div&gt;&lt;div style=&quot;caret-color: rgba(0, 0, 0, 0);&quot;&gt;out = reduced_channels / 2&lt;/div&gt;&lt;/div&gt;&lt;div style=&quot;caret-color: rgba(0, 0, 0, 0);&quot;&gt;d = 3, p = 3,&lt;/div&gt;&lt;div style=&quot;caret-color: rgba(0, 0, 0, 0);&quot;&gt;BN&lt;/div&gt;&lt;div style=&quot;caret-color: rgba(0, 0, 0, 0);&quot;&gt;SiLU&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;caret-color: rgba(0, 0, 0, 0);&quot;&gt;Learnable Weight&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="eNPJahaXqTW3j3RyROAE-7" value="&lt;span style=&quot;caret-color: rgba(0, 0, 0, 0);&quot;&gt;Multi Scale Conv 3&lt;/span&gt;&lt;div style=&quot;caret-color: rgba(0, 0, 0, 0);&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;caret-color: rgba(0, 0, 0, 0);&quot;&gt;depthwise 3x3&lt;/div&gt;&lt;div style=&quot;caret-color: rgba(0, 0, 0, 0);&quot;&gt;&lt;div style=&quot;caret-color: rgba(0, 0, 0, 0);&quot;&gt;in = reduced_channels&lt;/div&gt;&lt;div style=&quot;caret-color: rgba(0, 0, 0, 0);&quot;&gt;out = reduced_channels / 2&lt;/div&gt;&lt;/div&gt;&lt;div style=&quot;caret-color: rgba(0, 0, 0, 0);&quot;&gt;d = 3, p = 3,&lt;/div&gt;&lt;div style=&quot;caret-color: rgba(0, 0, 0, 0);&quot;&gt;BN&lt;/div&gt;&lt;div style=&quot;caret-color: rgba(0, 0, 0, 0);&quot;&gt;SiLU&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="310" y="2060" width="160" height="150" as="geometry" />
         </mxCell>
         <mxCell id="eNPJahaXqTW3j3RyROAE-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="eNPJahaXqTW3j3RyROAE-10" target="eNPJahaXqTW3j3RyROAE-22" edge="1">
@@ -394,17 +394,11 @@
         <mxCell id="eNPJahaXqTW3j3RyROAE-25" value="Conv 1&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;caret-color: rgba(0, 0, 0, 0);&quot;&gt;Conv 1x1&lt;/span&gt;&lt;div style=&quot;caret-color: rgba(0, 0, 0, 0);&quot;&gt;in = reduced_channels&lt;/div&gt;&lt;div style=&quot;caret-color: rgba(0, 0, 0, 0);&quot;&gt;out = reduced_channels&lt;/div&gt;&lt;/div&gt;&lt;div style=&quot;caret-color: rgba(0, 0, 0, 0);&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;caret-color: rgba(0, 0, 0, 0);&quot;&gt;BN&lt;/div&gt;&lt;div style=&quot;caret-color: rgba(0, 0, 0, 0);&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;caret-color: rgba(0, 0, 0, 0);&quot;&gt;SiLU&lt;/div&gt;&lt;div style=&quot;caret-color: rgba(0, 0, 0, 0);&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;caret-color: rgba(0, 0, 0, 0);&quot;&gt;Enhanced Attention&lt;/div&gt;&lt;div style=&quot;caret-color: rgba(0, 0, 0, 0);&quot;&gt;in_channels&lt;/div&gt;&lt;div style=&quot;caret-color: rgba(0, 0, 0, 0);&quot;&gt;reduction&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="740" y="1830" width="120" height="320" as="geometry" />
         </mxCell>
-        <mxCell id="z89YqDohYfR149tu_x9s-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="eNPJahaXqTW3j3RyROAE-27" target="eNPJahaXqTW3j3RyROAE-31" edge="1">
+        <mxCell id="0CGyJOmSGgBxlAx45Svr-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="eNPJahaXqTW3j3RyROAE-27" target="eNPJahaXqTW3j3RyROAE-33">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="eNPJahaXqTW3j3RyROAE-27" value="Upsample&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;conv 3x3&lt;/div&gt;&lt;div&gt;in = reduced_channels&lt;/div&gt;&lt;div&gt;out = reduced_channels&lt;/div&gt;&lt;div&gt;p = 1&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="890" y="1915" width="120" height="150" as="geometry" />
-        </mxCell>
-        <mxCell id="z89YqDohYfR149tu_x9s-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="eNPJahaXqTW3j3RyROAE-31" target="eNPJahaXqTW3j3RyROAE-33" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="eNPJahaXqTW3j3RyROAE-31" value="Adaptive Spatial Weighting" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="915" y="1820" width="70" height="60" as="geometry" />
         </mxCell>
         <mxCell id="z89YqDohYfR149tu_x9s-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="eNPJahaXqTW3j3RyROAE-33" target="eNPJahaXqTW3j3RyROAE-35" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -412,7 +406,7 @@
         <mxCell id="eNPJahaXqTW3j3RyROAE-33" value="Global Semantic Assembly" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="915" y="1732.5" width="70" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="-9ukkKSW-tNlVHm1V4Zb-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="eNPJahaXqTW3j3RyROAE-35" target="eNPJahaXqTW3j3RyROAE-41">
+        <mxCell id="-9ukkKSW-tNlVHm1V4Zb-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="eNPJahaXqTW3j3RyROAE-35" target="eNPJahaXqTW3j3RyROAE-41" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="eNPJahaXqTW3j3RyROAE-35" value="Conv 2&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;div style=&quot;caret-color: rgba(0, 0, 0, 0);&quot;&gt;&lt;span style=&quot;caret-color: rgba(0, 0, 0, 0);&quot;&gt;DepthWise 3x3&lt;/span&gt;&lt;div style=&quot;caret-color: rgba(0, 0, 0, 0);&quot;&gt;in = 4&lt;/div&gt;&lt;div style=&quot;caret-color: rgba(0, 0, 0, 0);&quot;&gt;out = 4&lt;/div&gt;&lt;div style=&quot;caret-color: rgba(0, 0, 0, 0);&quot;&gt;p = 1&lt;/div&gt;&lt;div style=&quot;caret-color: rgba(0, 0, 0, 0);&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;caret-color: rgba(0, 0, 0, 0);&quot;&gt;&lt;span style=&quot;caret-color: rgba(0, 0, 0, 0);&quot;&gt;Conv 1x1&lt;/span&gt;&lt;div style=&quot;caret-color: rgba(0, 0, 0, 0);&quot;&gt;in = 4&lt;/div&gt;&lt;div style=&quot;caret-color: rgba(0, 0, 0, 0);&quot;&gt;out = out_channels&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div style=&quot;caret-color: rgba(0, 0, 0, 0);&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;caret-color: rgba(0, 0, 0, 0);&quot;&gt;BN&lt;/div&gt;&lt;div style=&quot;caret-color: rgba(0, 0, 0, 0);&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;caret-color: rgba(0, 0, 0, 0);&quot;&gt;SiLU&lt;/div&gt;&lt;div style=&quot;caret-color: rgba(0, 0, 0, 0);&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;caret-color: rgba(0, 0, 0, 0);&quot;&gt;DropBlock&lt;/div&gt;&lt;/div&gt;&lt;div style=&quot;caret-color: rgba(0, 0, 0, 0);&quot;&gt;dropout_rate&lt;/div&gt;&lt;div style=&quot;caret-color: rgba(0, 0, 0, 0);&quot;&gt;block_size = 5&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
