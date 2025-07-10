@@ -1020,6 +1020,33 @@
         <mxCell id="IQVs6YDOzSZQmRijwt-y-177" value="&lt;div&gt;BN * SiLU&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-675" y="2755" width="70" height="20" as="geometry" />
         </mxCell>
+        <mxCell id="IQVs6YDOzSZQmRijwt-y-190" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.flowchart.or;" vertex="1" parent="1">
+          <mxGeometry x="-1400" y="2969" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="IQVs6YDOzSZQmRijwt-y-191" value="Channel-wise Concatenation" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-1377" y="2964" width="175" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="IQVs6YDOzSZQmRijwt-y-192" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.flowchart.summing_function;" vertex="1" parent="1">
+          <mxGeometry x="-1400" y="3004" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="IQVs6YDOzSZQmRijwt-y-193" value="Element-wise Summation" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-1377" y="2999" width="175" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="IQVs6YDOzSZQmRijwt-y-194" value="Batch Normalization" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-1135" y="2964" width="175" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="IQVs6YDOzSZQmRijwt-y-195" value="Depthwise Separable Convolution" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-1135" y="2999" width="190" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="IQVs6YDOzSZQmRijwt-y-196" value="BN" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="-1165" y="2969" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="IQVs6YDOzSZQmRijwt-y-197" value="DSConv" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="-1185" y="3004" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="IQVs6YDOzSZQmRijwt-y-198" value="c = channels&lt;div&gt;s = stride&lt;/div&gt;&lt;div&gt;d = dialation&lt;/div&gt;&lt;div&gt;p = padding&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-919" y="2960" width="80" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
