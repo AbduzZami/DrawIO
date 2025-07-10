@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36" version="27.2.0">
   <diagram name="Page-1" id="Wpb7lffDQaTQN_STUFut">
-    <mxGraphModel dx="2676" dy="1665" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2630" dy="1638" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -775,13 +775,13 @@
         <mxCell id="IQVs6YDOzSZQmRijwt-y-82" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="IQVs6YDOzSZQmRijwt-y-81" source="IQVs6YDOzSZQmRijwt-y-83" target="IQVs6YDOzSZQmRijwt-y-85">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="IQVs6YDOzSZQmRijwt-y-83" value="&lt;div style=&quot;caret-color: rgba(0, 0, 0, 0);&quot;&gt;&lt;span style=&quot;caret-color: light-dark(rgba(0, 0, 0, 0), rgb(237, 237, 237)); background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Expand Channels to expansion value (e) by Depthwise 1x1&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;caret-color: rgba(0, 0, 0, 0);&quot;&gt;&lt;span style=&quot;caret-color: light-dark(rgba(0, 0, 0, 0), rgb(237, 237, 237)); background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;BN *&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); caret-color: light-dark(rgba(0, 0, 0, 0), rgb(237, 237, 237));&quot;&gt;Swish&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="IQVs6YDOzSZQmRijwt-y-81">
+        <mxCell id="IQVs6YDOzSZQmRijwt-y-83" value="&lt;div style=&quot;caret-color: rgba(0, 0, 0, 0);&quot;&gt;&lt;span style=&quot;caret-color: light-dark(rgba(0, 0, 0, 0), rgb(237, 237, 237)); background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Expand Channels to expansion value (e) by Depthwise 1x1&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;caret-color: rgba(0, 0, 0, 0);&quot;&gt;&lt;span style=&quot;caret-color: light-dark(rgba(0, 0, 0, 0), rgb(237, 237, 237)); background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;BN *&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); caret-color: light-dark(rgba(0, 0, 0, 0), rgb(237, 237, 237));&quot;&gt;SiLU&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="IQVs6YDOzSZQmRijwt-y-81">
           <mxGeometry x="10" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="IQVs6YDOzSZQmRijwt-y-84" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="IQVs6YDOzSZQmRijwt-y-81" source="IQVs6YDOzSZQmRijwt-y-85" target="IQVs6YDOzSZQmRijwt-y-87">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="IQVs6YDOzSZQmRijwt-y-85" value="Depthwise Conv 3x3&lt;div&gt;c = e&lt;/div&gt;&lt;div&gt;s = s&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;BN *&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Swish&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="IQVs6YDOzSZQmRijwt-y-81">
+        <mxCell id="IQVs6YDOzSZQmRijwt-y-85" value="Depthwise Conv 3x3&lt;div&gt;c = e&lt;/div&gt;&lt;div&gt;s = s&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;BN *&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;SiLU&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="IQVs6YDOzSZQmRijwt-y-81">
           <mxGeometry x="10" y="100" width="120" height="70" as="geometry" />
         </mxCell>
         <mxCell id="IQVs6YDOzSZQmRijwt-y-86" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="IQVs6YDOzSZQmRijwt-y-81" source="IQVs6YDOzSZQmRijwt-y-87" target="IQVs6YDOzSZQmRijwt-y-89">
