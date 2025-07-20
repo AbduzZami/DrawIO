@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36" version="28.0.4">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36" version="28.0.6">
   <diagram name="Page-1" id="Wpb7lffDQaTQN_STUFut">
-    <mxGraphModel dx="3634" dy="1728" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="4325" dy="2127" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1335,6 +1335,18 @@
           <mxGeometry x="-0.0438" y="-2" relative="1" as="geometry">
             <mxPoint x="25" y="10" as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="G83nmgE_ROhDBUx4Tl7V-1" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.flowchart.or;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="-1616" y="1355" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="G83nmgE_ROhDBUx4Tl7V-2" value="Channel-wise Concatenation" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="-1593" y="1350" width="175" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="G83nmgE_ROhDBUx4Tl7V-3" value="Ein Sum" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="-1400" y="1355" width="49" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="G83nmgE_ROhDBUx4Tl7V-4" value="Einstein Summation" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="-1340.5" y="1350" width="175" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
