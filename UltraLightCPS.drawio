@@ -828,7 +828,7 @@
         <mxCell id="b8GbFC2p2Jvg1T6n8AfD-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Times New Roman;fontSize=12;fontColor=default;" edge="1" parent="1" source="IQVs6YDOzSZQmRijwt-y-119" target="b8GbFC2p2Jvg1T6n8AfD-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="IQVs6YDOzSZQmRijwt-y-119" value="Attention Guided&amp;nbsp;&lt;div&gt;High Level&lt;div&gt;Features&lt;/div&gt;&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontFamily=Times New Roman;" parent="1" vertex="1">
+        <mxCell id="IQVs6YDOzSZQmRijwt-y-119" value="Output of MSFE" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontFamily=Times New Roman;" parent="1" vertex="1">
           <mxGeometry x="-1355" y="1758" width="120" height="44.5" as="geometry" />
         </mxCell>
         <mxCell id="IQVs6YDOzSZQmRijwt-y-122" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Times New Roman;" parent="1" source="IQVs6YDOzSZQmRijwt-y-124" target="IQVs6YDOzSZQmRijwt-y-126" edge="1">
