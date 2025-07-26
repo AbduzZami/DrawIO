@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36" version="28.0.7">
   <diagram name="Page-1" id="Wpb7lffDQaTQN_STUFut">
-    <mxGraphModel dx="3437" dy="1614" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="3698" dy="1765" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1350,6 +1350,12 @@
         </mxCell>
         <mxCell id="b8GbFC2p2Jvg1T6n8AfD-5" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=18;dashed=1;dashPattern=8 8;fontFamily=Times New Roman;fillColor=none;" parent="b8GbFC2p2Jvg1T6n8AfD-6" vertex="1">
           <mxGeometry x="374" y="155" width="50" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="Lc8R_8v1Zkm5o0WWOtry-1" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=4;dashed=1;dashPattern=8 8;fontFamily=Times New Roman;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-1030" y="430" width="210" height="270" as="geometry" />
+        </mxCell>
+        <mxCell id="Lc8R_8v1Zkm5o0WWOtry-2" value="Channel Compression" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="-977" y="671" width="115" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
