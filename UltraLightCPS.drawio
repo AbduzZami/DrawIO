@@ -778,10 +778,10 @@
         <mxCell id="IQVs6YDOzSZQmRijwt-y-201" value="Adaptive Compressed Multi Scale Convolution" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;" parent="1" vertex="1">
           <mxGeometry x="-1150.5" y="1910.5" width="157" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="IQVs6YDOzSZQmRijwt-y-114" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=12;fontFamily=Times New Roman;" parent="1" vertex="1">
+        <mxCell id="IQVs6YDOzSZQmRijwt-y-114" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=12;fontFamily=Times New Roman;dashed=1;dashPattern=8 8;" parent="1" vertex="1">
           <mxGeometry x="-735" y="870" width="151.11" height="420" as="geometry" />
         </mxCell>
-        <mxCell id="6LdT94z2-VgVezGK9zyT-9" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=7;fontFamily=Times New Roman;" parent="1" vertex="1">
+        <mxCell id="6LdT94z2-VgVezGK9zyT-9" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=7;fontFamily=Times New Roman;dashed=1;dashPattern=8 8;" parent="1" vertex="1">
           <mxGeometry x="-726" y="879" width="136" height="281" as="geometry" />
         </mxCell>
         <mxCell id="IQVs6YDOzSZQmRijwt-y-92" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;" parent="1" source="IQVs6YDOzSZQmRijwt-y-93" target="IQVs6YDOzSZQmRijwt-y-95" edge="1">
