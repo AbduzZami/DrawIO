@@ -1655,7 +1655,7 @@
         </mxCell>
         <mxCell id="cchySUQKbU9FnLWwwjSz-227" value="(1, 320, 8, 8)" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];horizontal=0;" vertex="1" connectable="0" parent="cchySUQKbU9FnLWwwjSz-15">
           <mxGeometry x="0.2648" y="-1" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="-5" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="cchySUQKbU9FnLWwwjSz-16" value="&lt;span style=&quot;caret-color: rgba(0, 0, 0, 0);&quot;&gt;ULC 3x3,&amp;nbsp;&lt;/span&gt;&lt;div style=&quot;caret-color: rgba(0, 0, 0, 0);&quot;&gt;c = 320, s = 1, e = 3&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
