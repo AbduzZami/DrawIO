@@ -2454,7 +2454,7 @@
           <mxGeometry x="-2847" y="1962.1" width="80" height="60" as="geometry" />
         </mxCell>
         <mxCell id="cchySUQKbU9FnLWwwjSz-161" value="Adaptive Compression" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;" parent="1" vertex="1">
-          <mxGeometry x="-3301.5" y="1832.35" width="78" height="30" as="geometry" />
+          <mxGeometry x="-3341.5" y="1832.35" width="78" height="30" as="geometry" />
         </mxCell>
         <mxCell id="cchySUQKbU9FnLWwwjSz-162" value="Adaptive Compressed Multi Scale Convolution" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;" parent="1" vertex="1">
           <mxGeometry x="-3235.5" y="1902.6" width="157" height="30" as="geometry" />
