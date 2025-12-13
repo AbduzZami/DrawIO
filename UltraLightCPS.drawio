@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36" version="29.2.7">
   <diagram name="Page-1" id="Wpb7lffDQaTQN_STUFut">
-    <mxGraphModel dx="9980" dy="3875" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="8353" dy="2950" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2785,13 +2785,13 @@
         <mxCell id="6eqO_MF-O4DcqPltaFGX-79" parent="1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=47;fontFamily=Times New Roman;horizontal=0;" value="ColonDB" vertex="1">
           <mxGeometry height="98" width="24" x="-4540.5" y="4117" as="geometry" />
         </mxCell>
-        <mxCell id="6eqO_MF-O4DcqPltaFGX-80" parent="1" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;" value="" vertex="1">
+        <mxCell id="6eqO_MF-O4DcqPltaFGX-80" parent="1" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;strokeWidth=3;" value="" vertex="1">
           <mxGeometry height="790" width="20" x="-4506.5" y="2580" as="geometry" />
         </mxCell>
-        <mxCell id="6eqO_MF-O4DcqPltaFGX-81" parent="1" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;" value="" vertex="1">
+        <mxCell id="6eqO_MF-O4DcqPltaFGX-81" parent="1" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;strokeWidth=3;" value="" vertex="1">
           <mxGeometry height="460" width="20" x="-4505" y="3420" as="geometry" />
         </mxCell>
-        <mxCell id="6eqO_MF-O4DcqPltaFGX-82" parent="1" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;" value="" vertex="1">
+        <mxCell id="6eqO_MF-O4DcqPltaFGX-82" parent="1" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;strokeWidth=3;" value="" vertex="1">
           <mxGeometry height="460" width="20" x="-4505" y="3936" as="geometry" />
         </mxCell>
       </root>
