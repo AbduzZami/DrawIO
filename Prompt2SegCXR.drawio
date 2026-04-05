@@ -220,6 +220,12 @@
         <mxCell id="FkAqJ9ctMvR1EomIxvrh-66" parent="1" style="rounded=1;whiteSpace=wrap;html=1;horizontal=0;" value="Conv 1x1&lt;div&gt;(channels = 1,&amp;nbsp; Sigmoid)&lt;/div&gt;" vertex="1">
           <mxGeometry height="102.5" width="40" x="630" y="153.75" as="geometry" />
         </mxCell>
+        <mxCell id="FkAqJ9ctMvR1EomIxvrh-72" parent="1" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.flowchart.summing_function;" value="" vertex="1">
+          <mxGeometry height="30" width="30" x="560" y="765" as="geometry" />
+        </mxCell>
+        <mxCell id="FkAqJ9ctMvR1EomIxvrh-73" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Stacking Along Channel Axis" vertex="1">
+          <mxGeometry height="30" width="110" x="590" y="765" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
