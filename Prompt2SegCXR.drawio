@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="81ceAY2cdZpOHBPiwnl1">
-    <mxGraphModel dx="1607" dy="927" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1205" dy="695" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -325,7 +325,7 @@
         <mxCell id="FkAqJ9ctMvR1EomIxvrh-130" edge="1" parent="1" source="FkAqJ9ctMvR1EomIxvrh-102" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="FkAqJ9ctMvR1EomIxvrh-129" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="FkAqJ9ctMvR1EomIxvrh-102" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#cce5ff;strokeColor=#36393d;fontFamily=Times New Roman;" value="Conv2d&lt;div&gt;(filters, 1x1)&lt;/div&gt;" vertex="1">
+        <mxCell id="FkAqJ9ctMvR1EomIxvrh-102" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#cce5ff;strokeColor=#36393d;fontFamily=Times New Roman;" value="Conv2d&lt;div&gt;(channels, 1x1)&lt;/div&gt;" vertex="1">
           <mxGeometry height="37.78" width="79.92" x="280" y="1050.38" as="geometry" />
         </mxCell>
         <mxCell id="FkAqJ9ctMvR1EomIxvrh-103" edge="1" parent="1" source="FkAqJ9ctMvR1EomIxvrh-104" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;" target="FkAqJ9ctMvR1EomIxvrh-107" value="">
@@ -346,7 +346,7 @@
         <mxCell id="FkAqJ9ctMvR1EomIxvrh-109" edge="1" parent="1" source="FkAqJ9ctMvR1EomIxvrh-110" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;" target="FkAqJ9ctMvR1EomIxvrh-106">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="FkAqJ9ctMvR1EomIxvrh-110" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#cce5ff;strokeColor=#36393d;fontFamily=Times New Roman;" value="Conv2d&lt;div&gt;(filters, 1x1)&lt;/div&gt;" vertex="1">
+        <mxCell id="FkAqJ9ctMvR1EomIxvrh-110" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#cce5ff;strokeColor=#36393d;fontFamily=Times New Roman;" value="Conv2d&lt;div&gt;(channels, 1x1)&lt;/div&gt;" vertex="1">
           <mxGeometry height="127.78" width="54.85" x="600" y="1126.12" as="geometry" />
         </mxCell>
         <mxCell id="FkAqJ9ctMvR1EomIxvrh-131" edge="1" parent="1" source="FkAqJ9ctMvR1EomIxvrh-129" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="FkAqJ9ctMvR1EomIxvrh-106">
