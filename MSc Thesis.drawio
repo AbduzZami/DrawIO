@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="V5hZiFm8Z_aFNJlZRZcP">
-    <mxGraphModel dx="1607" dy="927" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1377" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -120,25 +120,25 @@
           <mxGeometry height="37.33" width="260" x="1080" y="794.75" as="geometry" />
         </mxCell>
         <mxCell id="6WDT1Dl75g81H1SJ2-uh-51" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;fontFamily=Times New Roman;arcSize=9;fillColor=#ffe6cc;strokeColor=#d79b00;" value="" vertex="1">
-          <mxGeometry height="220" width="260" x="670" y="795" as="geometry" />
+          <mxGeometry height="295" width="260" x="665" y="757.5" as="geometry" />
         </mxCell>
         <mxCell id="6WDT1Dl75g81H1SJ2-uh-63" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;fontFamily=Times New Roman;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" value="" vertex="1">
-          <mxGeometry height="57.83" width="240" x="680" y="809.17" as="geometry" />
+          <mxGeometry height="57.83" width="240" x="675" y="846.3399999999999" as="geometry" />
         </mxCell>
         <mxCell id="6WDT1Dl75g81H1SJ2-uh-64" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;fontFamily=Times New Roman;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" value="" vertex="1">
-          <mxGeometry height="57.83" width="240" x="680" y="876.0900000000001" as="geometry" />
+          <mxGeometry height="57.83" width="240" x="675" y="913.2600000000001" as="geometry" />
         </mxCell>
         <mxCell id="6WDT1Dl75g81H1SJ2-uh-65" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;fontFamily=Times New Roman;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" value="" vertex="1">
-          <mxGeometry height="57.83" width="240" x="680" y="945" as="geometry" />
+          <mxGeometry height="57.83" width="240" x="675" y="982.17" as="geometry" />
         </mxCell>
         <mxCell id="6WDT1Dl75g81H1SJ2-uh-52" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=18;fontFamily=Times New Roman;" value="Finding hyperparameters" vertex="1">
-          <mxGeometry height="57.83" width="225" x="685" y="809.1700000000001" as="geometry" />
+          <mxGeometry height="57.83" width="225" x="680" y="846.34" as="geometry" />
         </mxCell>
         <mxCell id="6WDT1Dl75g81H1SJ2-uh-61" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=18;fontFamily=Times New Roman;" value="Finding&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&amp;nbsp;loss function&lt;/span&gt;" vertex="1">
-          <mxGeometry height="57.83" width="225" x="687.5" y="876.0900000000001" as="geometry" />
+          <mxGeometry height="57.83" width="225" x="682.5" y="913.2600000000001" as="geometry" />
         </mxCell>
         <mxCell id="6WDT1Dl75g81H1SJ2-uh-62" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=18;fontFamily=Times New Roman;" value="Training the model" vertex="1">
-          <mxGeometry height="57.83" width="225" x="687.5" y="945" as="geometry" />
+          <mxGeometry height="57.83" width="225" x="682.5" y="982.17" as="geometry" />
         </mxCell>
         <mxCell id="6WDT1Dl75g81H1SJ2-uh-66" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;fontFamily=Times New Roman;arcSize=7;fillColor=#d0cee2;strokeColor=#56517e;" value="" vertex="1">
           <mxGeometry height="310" width="510" x="100" y="750" as="geometry" />
@@ -160,6 +160,12 @@
         </mxCell>
         <mxCell id="6WDT1Dl75g81H1SJ2-uh-69" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=20;fontFamily=Times New Roman;" value="A model to localize and segment stenosis from XCA images" vertex="1">
           <mxGeometry height="50" width="374.64" x="170" y="820" as="geometry" />
+        </mxCell>
+        <mxCell id="qAUpsDyB3QIOLTpeHY5u-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;fontFamily=Times New Roman;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" value="" vertex="1">
+          <mxGeometry height="57.83" width="240" x="675" y="774.25" as="geometry" />
+        </mxCell>
+        <mxCell id="qAUpsDyB3QIOLTpeHY5u-2" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=18;fontFamily=Times New Roman;" value="Explore Augmentation Techniques" vertex="1">
+          <mxGeometry height="57.83" width="225" x="680" y="774.2500000000001" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
