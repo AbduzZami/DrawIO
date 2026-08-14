@@ -88,7 +88,7 @@
         <mxCell id="6WDT1Dl75g81H1SJ2-uh-31" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;fontFamily=Times New Roman;arcSize=9;" value="" vertex="1">
           <mxGeometry height="420" width="445" x="1055" y="520" as="geometry" />
         </mxCell>
-        <mxCell id="6WDT1Dl75g81H1SJ2-uh-32" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=1;fontSize=18;fontFamily=Times New Roman;" value="Goals" vertex="1">
+        <mxCell id="6WDT1Dl75g81H1SJ2-uh-32" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=1;fontSize=18;fontFamily=Times New Roman;" value="Model&#39;s Goal" vertex="1">
           <mxGeometry height="26.25" width="115" x="1222.5" y="537" as="geometry" />
         </mxCell>
         <mxCell id="6WDT1Dl75g81H1SJ2-uh-39" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=18;fontFamily=Times New Roman;" value="Preserve small lesions through the backbone" vertex="1">
