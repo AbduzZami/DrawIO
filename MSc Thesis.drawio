@@ -87,37 +87,37 @@
           <mxGeometry height="26.25" width="90" x="782" y="599.3299999999999" as="geometry" />
         </mxCell>
         <mxCell id="6WDT1Dl75g81H1SJ2-uh-29" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;fontFamily=Times New Roman;arcSize=7;fillColor=#f8cecc;strokeColor=#b85450;" value="" vertex="1">
-          <mxGeometry height="520" width="480" x="960" y="340" as="geometry" />
+          <mxGeometry height="520" width="480" x="970" y="340" as="geometry" />
         </mxCell>
         <mxCell id="6WDT1Dl75g81H1SJ2-uh-30" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=18;fontFamily=Times New Roman;" value="Design a instance segmentation model" vertex="1">
-          <mxGeometry height="57.83" width="445" x="975" y="354.17" as="geometry" />
+          <mxGeometry height="57.83" width="445" x="985" y="354.17" as="geometry" />
         </mxCell>
         <mxCell id="6WDT1Dl75g81H1SJ2-uh-31" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;fontFamily=Times New Roman;arcSize=9;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" value="" vertex="1">
-          <mxGeometry height="420" width="445" x="975" y="420" as="geometry" />
+          <mxGeometry height="420" width="445" x="985" y="420" as="geometry" />
         </mxCell>
         <mxCell id="6WDT1Dl75g81H1SJ2-uh-32" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=1;fontSize=18;fontFamily=Times New Roman;" value="Model&#39;s Goal" vertex="1">
-          <mxGeometry height="26.25" width="115" x="1142.5" y="437" as="geometry" />
+          <mxGeometry height="26.25" width="115" x="1152.5" y="437" as="geometry" />
         </mxCell>
         <mxCell id="6WDT1Dl75g81H1SJ2-uh-39" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=18;fontFamily=Times New Roman;" value="Preserve small lesions through the backbone" vertex="1">
-          <mxGeometry height="28.92" width="430" x="985" y="478.28999999999996" as="geometry" />
+          <mxGeometry height="28.92" width="430" x="995" y="478.28999999999996" as="geometry" />
         </mxCell>
         <mxCell id="6WDT1Dl75g81H1SJ2-uh-40" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=18;fontFamily=Times New Roman;" value="Disambiguate true stenosis from visual clutter" vertex="1">
-          <mxGeometry height="31.65" width="420" x="990" y="528" as="geometry" />
+          <mxGeometry height="31.65" width="420" x="1000" y="528" as="geometry" />
         </mxCell>
         <mxCell id="6WDT1Dl75g81H1SJ2-uh-41" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=18;fontFamily=Times New Roman;" value="Correct foreground-background imbalance" vertex="1">
-          <mxGeometry height="31.65" width="380" x="1010" y="578" as="geometry" />
+          <mxGeometry height="31.65" width="380" x="1020" y="578" as="geometry" />
         </mxCell>
         <mxCell id="6WDT1Dl75g81H1SJ2-uh-46" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=18;fontFamily=Times New Roman;" value="Handle thin, elongated vessel topology" vertex="1">
-          <mxGeometry height="37.33" width="360" x="1020" y="626" as="geometry" />
+          <mxGeometry height="37.33" width="360" x="1030" y="626" as="geometry" />
         </mxCell>
         <mxCell id="6WDT1Dl75g81H1SJ2-uh-47" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=18;fontFamily=Times New Roman;" value="Resolve instance boundaries at bifurcations" vertex="1">
-          <mxGeometry height="31.65" width="374.64" x="1012.6800000000001" y="680" as="geometry" />
+          <mxGeometry height="31.65" width="374.64" x="1022.6800000000001" y="680" as="geometry" />
         </mxCell>
         <mxCell id="6WDT1Dl75g81H1SJ2-uh-48" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=18;fontFamily=Times New Roman;" value="Stay trainable on modest compute" vertex="1">
-          <mxGeometry height="37.33" width="340" x="1030" y="728" as="geometry" />
+          <mxGeometry height="37.33" width="340" x="1040" y="728" as="geometry" />
         </mxCell>
         <mxCell id="6WDT1Dl75g81H1SJ2-uh-50" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=18;fontFamily=Times New Roman;" value="Outperform prior baselines" vertex="1">
-          <mxGeometry height="37.33" width="260" x="1070" y="778.66" as="geometry" />
+          <mxGeometry height="37.33" width="260" x="1080" y="778.66" as="geometry" />
         </mxCell>
         <mxCell id="6WDT1Dl75g81H1SJ2-uh-51" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;fontFamily=Times New Roman;arcSize=9;fillColor=#ffe6cc;strokeColor=#d79b00;" value="" vertex="1">
           <mxGeometry height="220" width="260" x="670" y="795" as="geometry" />
