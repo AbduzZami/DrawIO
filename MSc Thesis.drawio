@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="V5hZiFm8Z_aFNJlZRZcP">
-    <mxGraphModel dx="1015" dy="585" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1483" dy="855" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -50,34 +50,34 @@
           <mxGeometry height="130.98" width="130.98" x="419" y="849" as="geometry" />
         </mxCell>
         <mxCell id="6WDT1Dl75g81H1SJ2-uh-17" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;fontFamily=Times New Roman;" value="" vertex="1">
-          <mxGeometry height="220" width="260" x="700" y="420" as="geometry" />
+          <mxGeometry height="220" width="260" x="700" y="440" as="geometry" />
         </mxCell>
         <mxCell id="6WDT1Dl75g81H1SJ2-uh-19" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=18;fontFamily=Times New Roman;" value="Preprocessing techniques to improve contrast between vessel and background" vertex="1">
-          <mxGeometry height="57.83" width="225" x="715" y="434.17" as="geometry" />
+          <mxGeometry height="57.83" width="225" x="715" y="454.17" as="geometry" />
         </mxCell>
         <mxCell id="6WDT1Dl75g81H1SJ2-uh-20" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;fontFamily=Times New Roman;" value="" vertex="1">
-          <mxGeometry height="130.64" width="225" x="715" y="500" as="geometry" />
+          <mxGeometry height="130.64" width="225" x="715" y="520" as="geometry" />
         </mxCell>
         <mxCell id="6WDT1Dl75g81H1SJ2-uh-22" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=1;fontSize=18;fontFamily=Times New Roman;" value="Candidates" vertex="1">
-          <mxGeometry height="26.25" width="90" x="785" y="503.83" as="geometry" />
+          <mxGeometry height="26.25" width="90" x="785" y="523.8299999999999" as="geometry" />
         </mxCell>
         <mxCell id="6WDT1Dl75g81H1SJ2-uh-23" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=18;fontFamily=Times New Roman;" value="CLAHE" vertex="1">
-          <mxGeometry height="26.25" width="90" x="721" y="539.0799999999999" as="geometry" />
+          <mxGeometry height="26.25" width="90" x="721" y="559.0799999999999" as="geometry" />
         </mxCell>
         <mxCell id="6WDT1Dl75g81H1SJ2-uh-24" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=18;fontFamily=Times New Roman;" value="Top Hat" vertex="1">
-          <mxGeometry height="26.25" width="90" x="721" y="568.0799999999999" as="geometry" />
+          <mxGeometry height="26.25" width="90" x="721" y="588.0799999999999" as="geometry" />
         </mxCell>
         <mxCell id="6WDT1Dl75g81H1SJ2-uh-25" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=18;fontFamily=Times New Roman;" value="Black Hat" vertex="1">
-          <mxGeometry height="26.25" width="90" x="721" y="598.0799999999999" as="geometry" />
+          <mxGeometry height="26.25" width="90" x="721" y="618.0799999999999" as="geometry" />
         </mxCell>
         <mxCell id="6WDT1Dl75g81H1SJ2-uh-26" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=15;fontFamily=Times New Roman;" value="Gamma Correction" vertex="1">
-          <mxGeometry height="26.25" width="90" x="832" y="540.0799999999999" as="geometry" />
+          <mxGeometry height="26.25" width="90" x="832" y="560.0799999999999" as="geometry" />
         </mxCell>
         <mxCell id="6WDT1Dl75g81H1SJ2-uh-27" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=18;fontFamily=Times New Roman;" value="Denoising" vertex="1">
-          <mxGeometry height="26.25" width="90" x="832" y="574.0799999999999" as="geometry" />
+          <mxGeometry height="26.25" width="90" x="832" y="594.0799999999999" as="geometry" />
         </mxCell>
         <mxCell id="6WDT1Dl75g81H1SJ2-uh-28" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=18;fontFamily=Times New Roman;" value="Others" vertex="1">
-          <mxGeometry height="26.25" width="90" x="832" y="599.3299999999999" as="geometry" />
+          <mxGeometry height="26.25" width="90" x="832" y="619.3299999999999" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
