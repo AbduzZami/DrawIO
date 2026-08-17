@@ -70,22 +70,22 @@
         <mxCell id="6WDT1Dl75g81H1SJ2-uh-22" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=1;fontSize=21;fontFamily=Times New Roman;" value="Candidates" vertex="1">
           <mxGeometry height="26.25" width="90" x="1025" y="557.8299999999999" as="geometry" />
         </mxCell>
-        <mxCell id="6WDT1Dl75g81H1SJ2-uh-23" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=23;fontFamily=Times New Roman;" value="CLAHE" vertex="1">
+        <mxCell id="6WDT1Dl75g81H1SJ2-uh-23" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=24;fontFamily=Times New Roman;" value="CLAHE" vertex="1">
           <mxGeometry height="26.25" width="90" x="837.5" y="605.3199999999999" as="geometry" />
         </mxCell>
-        <mxCell id="6WDT1Dl75g81H1SJ2-uh-24" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=23;fontFamily=Times New Roman;" value="Top Hat" vertex="1">
+        <mxCell id="6WDT1Dl75g81H1SJ2-uh-24" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=24;fontFamily=Times New Roman;" value="Top Hat" vertex="1">
           <mxGeometry height="26.25" width="90" x="837.5" y="649.9999999999999" as="geometry" />
         </mxCell>
-        <mxCell id="6WDT1Dl75g81H1SJ2-uh-25" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=23;fontFamily=Times New Roman;" value="Black Hat" vertex="1">
+        <mxCell id="6WDT1Dl75g81H1SJ2-uh-25" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=24;fontFamily=Times New Roman;" value="Black Hat" vertex="1">
           <mxGeometry height="26.25" width="111" x="1014.5" y="605.32" as="geometry" />
         </mxCell>
-        <mxCell id="6WDT1Dl75g81H1SJ2-uh-26" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=23;fontFamily=Times New Roman;" value="Gamma Correction" vertex="1">
+        <mxCell id="6WDT1Dl75g81H1SJ2-uh-26" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=24;fontFamily=Times New Roman;" value="Gamma Correction" vertex="1">
           <mxGeometry height="26.25" width="190" x="975" y="650" as="geometry" />
         </mxCell>
-        <mxCell id="6WDT1Dl75g81H1SJ2-uh-27" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=23;fontFamily=Times New Roman;" value="Denoising" vertex="1">
+        <mxCell id="6WDT1Dl75g81H1SJ2-uh-27" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=24;fontFamily=Times New Roman;" value="Denoising" vertex="1">
           <mxGeometry height="26.25" width="90" x="1200" y="605.3199999999999" as="geometry" />
         </mxCell>
-        <mxCell id="6WDT1Dl75g81H1SJ2-uh-28" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=23;fontFamily=Times New Roman;" value="Others" vertex="1">
+        <mxCell id="6WDT1Dl75g81H1SJ2-uh-28" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=24;fontFamily=Times New Roman;" value="Others" vertex="1">
           <mxGeometry height="26.25" width="90" x="1210" y="649.9999999999999" as="geometry" />
         </mxCell>
         <mxCell id="6WDT1Dl75g81H1SJ2-uh-29" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;fontFamily=Times New Roman;arcSize=7;fillColor=#f8cecc;strokeColor=#b85450;" value="" vertex="1">
