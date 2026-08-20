@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="V5hZiFm8Z_aFNJlZRZcP">
-    <mxGraphModel dx="1753" dy="1011" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2754" dy="1589" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -8,19 +8,19 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="6WDT1Dl75g81H1SJ2-uh-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=7;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="" vertex="1">
-          <mxGeometry height="380" width="510" x="660" y="390" as="geometry" />
+          <mxGeometry height="380" width="530" x="640" y="390" as="geometry" />
         </mxCell>
         <mxCell id="6WDT1Dl75g81H1SJ2-uh-15" parent="1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=7;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" value="" vertex="1">
-          <mxGeometry height="150" width="490" x="670" y="450" as="geometry" />
+          <mxGeometry height="150" width="510" x="650" y="450" as="geometry" />
         </mxCell>
-        <mxCell id="6WDT1Dl75g81H1SJ2-uh-16" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;horizontal=0;fontSize=18;" value="Angiogram Images" vertex="1">
-          <mxGeometry height="65.66" width="20" x="682" y="492.17" as="geometry" />
+        <mxCell id="6WDT1Dl75g81H1SJ2-uh-16" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;horizontal=0;fontSize=23;fontFamily=Times New Roman;" value="Angiogram Images" vertex="1">
+          <mxGeometry height="65.66" width="20" x="676" y="492.17" as="geometry" />
         </mxCell>
         <mxCell id="6WDT1Dl75g81H1SJ2-uh-14" parent="1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=7;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" value="" vertex="1">
-          <mxGeometry height="150" width="490" x="670" y="605.32" as="geometry" />
+          <mxGeometry height="150" width="510" x="650" y="605.32" as="geometry" />
         </mxCell>
-        <mxCell id="6WDT1Dl75g81H1SJ2-uh-2" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;horizontal=0;fontSize=18;" value="Corresponding Annotations" vertex="1">
-          <mxGeometry height="83.15" width="20" x="682" y="638.4" as="geometry" />
+        <mxCell id="6WDT1Dl75g81H1SJ2-uh-2" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;horizontal=0;fontSize=23;fontFamily=Times New Roman;" value="Corresponding Annotations" vertex="1">
+          <mxGeometry height="83.15" width="20" x="676" y="638.4" as="geometry" />
         </mxCell>
         <mxCell id="6WDT1Dl75g81H1SJ2-uh-3" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=25;fontFamily=Times New Roman;" value="Annotated X-ray Angiogram Images from ARCADE dataset" vertex="1">
           <mxGeometry height="50" width="374.64" x="735.34" y="400" as="geometry" />
